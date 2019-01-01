@@ -14,4 +14,4 @@ run:
 rerun: rebuild run
 
 compose:
-	docker-compose up --build
+	docker-compose up --build -d
